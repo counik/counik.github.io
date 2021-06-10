@@ -3155,7 +3155,7 @@ button:disabled,
   -webkit-justify-content: center;
   -ms-justify-content: center;
   justify-content: center;
-  margin-top: 2.5em;
+  margin-top: 1em;
   margin-left: 0;
   position: relative;
 }
@@ -3666,7 +3666,7 @@ ul.blank-list {
   display: flex;
   padding-left: 0;
   margin-left: 0;
-  margin-top: 2.5em;
+  margin-top: 1em;
 }
 
 .blank-list li {

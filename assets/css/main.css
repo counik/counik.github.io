@@ -3642,5 +3642,15 @@ body.is-preload #header:after {
 }
 
 ul.blank-list {
+  list-style-type: none;
+  justify-content: center;
+  display: flex;
+  padding-left: 0;
+  margin-left: 0;
+  margin-top: 2.5em;
+}
+
+.blank-list li {
   list-style: none;
+  padding-left: 0;
 }

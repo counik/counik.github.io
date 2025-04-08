@@ -1,5 +1,6 @@
 ---
 layout: archives
-icon: fas fa-archive
+title: tldr
+url: tldr
 order: 3
 ---
